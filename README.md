@@ -6,8 +6,8 @@
 ### Async
 
 ```javascript
-var isFile = require('is-dir');
-isFile(__filename, function(err, bool){
+var isDir = require('is-dir');
+isDir(__filename, function(err, bool){
   console.log(bool); // => true
 });
 ```
