@@ -54,8 +54,8 @@ THE SOFTWARE.
 ``````
 
 [downloads-image]: http://img.shields.io/npm/dm/node-is-dir.svg
-[npm-url]: https://npmjs.org/package/node-is-dir
-[npm-image]: http://img.shields.io/npm/v/node-is-dir.svg
+[npm-url]: https://npmjs.org/package/is-dir
+[npm-image]: http://img.shields.io/npm/v/is-dir.svg
 
 [travis-url]: https://travis-ci.org/jsdevel/node-is-dir
 [travis-image]: http://img.shields.io/travis/jsdevel/node-is-dir.svg
